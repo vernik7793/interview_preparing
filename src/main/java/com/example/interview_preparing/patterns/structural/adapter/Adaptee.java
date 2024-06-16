@@ -1,7 +1,7 @@
 package com.example.interview_preparing.patterns.structural.adapter;
 
-public class Adaptee implements Adaptee {
-    @Override
+public class Adaptee {
+
     public Integer specificRequest() {
         return 1;
     }
